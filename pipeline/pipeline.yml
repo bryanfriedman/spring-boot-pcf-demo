@@ -2,7 +2,7 @@ resources:
 - name: git-assets
   type: git
   source:
-    uri: https://github.com/mattsday/spring-boot-pcf-demo
+    uri: https://github.com/bryanfriedman/spring-boot-pcf-demo
     
 - name: release
   type: s3
