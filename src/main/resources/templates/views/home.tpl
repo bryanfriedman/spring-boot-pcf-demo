@@ -1,5 +1,5 @@
 layout 'layouts/main.tpl',
-        pageTitle: 'Cloud Foundry Demo',
+        pageTitle: 'Cloud Foundry Demo IEEE',
         mainBody: contents {
    div(class:'jumbotron'){
      h1('Cloud Foundry Demo')
